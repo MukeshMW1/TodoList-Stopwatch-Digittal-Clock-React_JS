@@ -1,7 +1,7 @@
 import './App.css'
 import TodoList from './TodoList.jsx'
 import TodoLst from './TodoLst.jsx'
-import Digital_Clock from './Digital_CLock.jsx'
+import Digital_Clock from './Digital_Clock.jsx'
 import Updated_Clock from './Updated_CLock'
 import Stopwatch from './Stopwatch.jsx'
 function App() {
