@@ -1,0 +1,7 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 10vw;
+    align-items: center;
+}

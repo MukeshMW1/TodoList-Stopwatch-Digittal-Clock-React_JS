@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&family=MuseoModerno:ital,wght@0,100..900;1,100..900&display=swap');
+
+.clock {
+    font-family: "MuseoModerno", sans-serif;
+    font-size: 2rem;
+    font-optical-sizing: auto;
+    display: flex;
+    font-style: normal;
+    align-items: center;
+    justify-content: center;
+    min-height: 20vh;
+}
